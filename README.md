@@ -22,3 +22,10 @@ Our World in Data — COVID-19 dataset
 
 ---
 Still learning, still building. More updates coming as I go.
+
+
+## Project 2: Nashville Housing Data Cleaning (SQL) 
+**Tools used:** SQL Server Management Studio (SSMS)
+**What I did:** - Standardised date formats - Populated missing property addresses using self joins - Split address columns into individual fields (Address, City, State) - Removed duplicate records using CTEs and ROW_NUMBER() - Cleaned up unused columns
+**Dataset:** Nashville Housing Data (Kaggle)
+
