@@ -29,3 +29,23 @@ Still learning, still building. More updates coming as I go.
 **What I did:** - Standardised date formats - Populated missing property addresses using self joins - Split address columns into individual fields (Address, City, State) - Removed duplicate records using CTEs and ROW_NUMBER() - Cleaned up unused columns
 **Dataset:** Nashville Housing Data (Kaggle)
 
+
+
+# Diabetes Patient Analytics Dashboard
+
+This project explores a diabetes patient dataset using Tableau to identify patterns and insights related to patient readmissions, age groups, gender, insulin usage, and average hospital stay across different racial groups.
+
+### Key Analysis
+- Readmission rate by age group
+- Gender distribution
+- Patient count
+- Insulin usage breakdown
+- Average hospital stay by race
+
+### Tools Used
+- Tableau
+- Data visualization
+- Data analysis
+
+### Tableau Dashboard
+[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/stephanie.ilozuluile/viz/DiabeticsDataDashboard/Dashboard1?publish=yes)
