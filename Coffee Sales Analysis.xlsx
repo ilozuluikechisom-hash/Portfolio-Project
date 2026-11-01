@@ -1,0 +1,29 @@
+# Coffee Shop Sales Analysis Dashboard
+
+## Project Overview
+
+This project analyses coffee shop sales data using Microsoft Excel. The dashboard provides an overview of sales performance, customer footfall, product performance, hourly ordering patterns and sales across different store locations.
+
+## Key Metrics
+- Total Sales: $698,812.33
+- Total Footfall: 149,116
+- Average Bill per Person: 4,686
+- Average Orders per Person: 1.44
+
+## Key Insights
+1. Hell's Kitchen recorded the highest sales among the three locations, although revenue was relatively evenly distributed across all locations.
+2. Order activity peaked around 10 a.m., highlighting the importance of morning sales.
+3. Regular and large orders accounted for the largest shares of the order-size distribution.
+4. Barista Espresso appeared to be the strongest-performing product among the five products displayed.
+5. Friday recorded the strongest weekday performance, while Saturday and Sunday were comparatively lower.
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Analysis and Visualisation
+
+## Project Objective
+
+The objective was to transform raw sales data into an interactive dashboard that helps stakeholders understand sales trends, customer ordering behaviour, product performance and location-level performance.
