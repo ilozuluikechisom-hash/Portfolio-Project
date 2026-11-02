@@ -1,0 +1,50 @@
+Hospital-Operations-Patient-Appointment-Analysis/
+│
+├── README.md
+├── dashboard/
+│   └── dashboard-screenshot.png
+├── data/
+│   └── hospital-appointments.csv
+└── insights/
+    └── key-insights.md
+
+
+
+## Key Insights
+
+### 1. Patient Overview
+- The hospital recorded **500 appointments** involving **479 patients**.
+- The average patient age was approximately **59.77 years**, suggesting that the hospital serves a relatively older patient population.
+
+### 2. Appointment Status
+- The dashboard tracks appointments across three categories: completed, scheduled and cancelled.
+- The completion rate displayed is **19.8%**.
+- This suggests an opportunity to investigate appointment completion, cancellations and scheduling processes to understand why some appointments do not reach completion.
+
+### 3. Appointment Types
+- **Routine Check-up** appears to be the most frequently recorded appointment type.
+- Vaccination also accounts for a noticeable share of appointments.
+- Follow-up, emergency consultation and specialist referral have comparatively lower appointment volumes.
+
+### 4. Patient Age Distribution
+- The age-group analysis shows activity across different patient age categories.
+- The 60+ category appears to account for a substantial proportion of appointments.
+- This highlights the importance of understanding the healthcare needs of older patients when planning hospital services.
+
+### 5. Clinic Location Analysis
+- Cape Town recorded the highest appointment volume among the locations displayed.
+- Porto, Hamburg, Denver, Delhi and Copenhagen also recorded relatively high appointment volumes.
+- Vienna, Istanbul, Helsinki and Chicago had slightly lower volumes in comparison.
+
+### 6. Insurance Provider Analysis
+- The dashboard includes an insurance provider comparison to examine appointment distribution across providers.
+- This analysis can help hospital management understand the contribution of different insurance providers to patient appointments.
+
+### 7. Appointment Trends
+- The monthly appointment chart shows variations in appointment volume throughout the year.
+- The displayed trend generally rises towards the later months, suggesting an increase in recorded appointment activity.
+
+### Overall Observation
+The dashboard brings together patient demographics, appointment outcomes, service demand, clinic locations and insurance information. These insights can help hospital management monitor appointment activity, understand patient patterns and identify areas that may require operational attention.
+
+
