@@ -1,0 +1,61 @@
+# IPL Data Analysis Dashboard (2008–2018)
+
+## Project Overview
+
+This project explores data from the Indian Premier League (IPL) from 2008 to 2018 using an interactive dashboard built in Microsoft Excel.
+
+The dashboard provides insights into team performance, match outcomes, toss decisions, venues, title winners and Player of the Match awards across different IPL seasons.
+
+## Dashboard Preview
+
+![IPL Dashboard](3RD%20DASHBOARD.png)
+
+## Key Performance Insights
+
+The dashboard explores the following areas:
+
+### 1. Matches Won by Team
+- Compares the number of matches won by each team.
+- Breaks down victories based on whether teams batted or fielded first.
+
+### 2. Toss Decision Analysis
+- Examines the relationship between toss decisions and match-winning percentages.
+- Compares the outcomes of choosing to bat or field after winning the toss.
+
+### 3. Top 10 Venues
+- Identifies the venues that hosted the highest number of matches.
+- Shows the distribution of matches based on batting and fielding outcomes.
+
+### 4. Title Winners
+- Highlights teams that have won IPL titles across different seasons.
+
+### 5. Top 10 Player of the Match Winners
+- Identifies players who have received the highest number of Player of the Match awards.
+
+## Dashboard Features
+
+- Interactive season filters (2008–2018).
+- Dynamic charts and visual comparisons.
+- KPI cards displaying selected-season information.
+- Multiple visualisations for exploring team and player performance.
+
+## Tools Used
+
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Slicers
+- Data Analysis and Visualisation
+
+## What I Learned
+
+Through this project, I strengthened my skills in data analysis and dashboard development. I gained more experience in organising data, creating interactive visualisations, comparing performance metrics and presenting insights in a structured and understandable format.
+
+## Project Goal
+
+The goal of this project is to transform IPL match data into meaningful insights that make it easier to understand team performance, match trends and individual player achievements.
+
+---
+
+**Author:** Chisom Ilozuluike  
+**Project:** IPL Data Analysis Dashboard
