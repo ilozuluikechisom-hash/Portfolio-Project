@@ -205,3 +205,137 @@ The dashboard presents the KPIs and visual analysis of the Airbnb listings, allo
 This project provided an opportunity to explore a real-world accommodation dataset and identify patterns in pricing, property distribution and availability.
 
 It also strengthened my practical experience with Google Sheets and demonstrated how data analysis can turn raw listing information into insights that support better understanding of a market.
+
+
+
+EXCEL DASHBOARDS README
+
+
+# 1. VRINDA STORE SALES DASHBOARD
+
+## Project Overview
+This project involves analysing Vrinda Store sales data using Microsoft Excel. The dashboard presents sales information through visualisations to help explore business performance, customer purchasing patterns and sales trends.
+
+## Project Objectives
+- Analyse Vrinda Store sales data.
+- Explore sales performance across relevant categories.
+- Identify customer purchasing patterns.
+- Present key business metrics through charts and visualisations.
+- Demonstrate how data analysis can support business decision-making.
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Data cleaning and visualisation tools
+
+## Key Skills Demonstrated
+- Data cleaning and organisation
+- Data analysis
+- Sales analysis
+- Data visualisation
+- Dashboard development
+- Business insight generation
+
+## Project Outcome
+This project provided practical experience in transforming sales data into an interactive dashboard and using visualisations to communicate business information.
+
+---
+
+# 2. COFFEE SHOP SALES DASHBOARD
+
+## Project Overview
+This project focuses on analysing coffee shop data using Microsoft Excel. An interactive dashboard was developed to present business information and make it easier to understand sales performance and customer purchasing patterns.
+
+## Project Objectives
+- Analyse coffee shop business data.
+- Explore sales performance and purchasing patterns.
+- Present important business metrics using charts and visualisations.
+- Demonstrate how data can support business decision-making.
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Data cleaning and visualisation tools
+
+## Key Skills Demonstrated
+- Data cleaning
+- Data analysis
+- Sales analysis
+- Pivot Table reporting
+- Dashboard development
+- Business insight generation
+
+## Project Outcome
+The project strengthened my ability to use Excel to analyse business data and present information in a way that can support operational and business decisions.
+
+---
+
+# 3. INDIAN PREMIER LEAGUE (IPL) DASHBOARD
+
+## Project Overview
+This project involves the analysis and visualisation of Indian Premier League (IPL) cricket data using Microsoft Excel.
+
+The dashboard was designed to make cricket-related data easier to explore and understand through visual representations of relevant statistics and performance information.
+
+## Project Objectives
+- Explore IPL cricket data.
+- Analyse relevant team and player performance information.
+- Present cricket statistics through charts and visualisations.
+- Demonstrate how data analytics can be applied to sports.
+
+## Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Pivot Charts
+- Data visualisation tools
+
+## Key Skills Demonstrated
+- Data organisation
+- Data analysis
+- Sports analytics
+- Data visualisation
+- Dashboard development
+- Analytical thinking
+
+## Project Outcome
+This project provided an opportunity to apply data analysis techniques to sports data and communicate statistical information through an interactive dashboard.
+
+---
+
+# 4. EMPLOYEE ATTRITION DASHBOARD
+
+## Project Overview
+This project focuses on analysing employee attrition using an HR/Employee Attrition dataset. The dashboard is being developed to explore employee turnover patterns and understand the factors associated with employees leaving an organisation.
+
+The goal is to transform HR data into meaningful visual insights that can help organisations better understand workforce trends.
+
+## Project Objectives
+- Analyse employee attrition patterns.
+- Explore attrition across different employee demographics.
+- Examine employee distribution across relevant categories.
+- Present HR data through clear and meaningful visualisations.
+- Support data-driven workforce analysis.
+
+## Tools Used
+- Tableau
+- Calculated Fields
+- Dual-Axis Charts
+- Data Visualisation
+- HR/Employee Attrition Dataset
+
+## Key Skills Demonstrated
+- Data analysis
+- Data visualisation
+- Tableau dashboard development
+- Calculated fields
+- Chart development
+- HR analytics
+- Analytical thinking
+
+## Project Status
+Work in progress.
+
+## Project Outcome
+This project is helping me develop practical experience in HR analytics and Tableau dashboard development. It also demonstrates how data visualisation can help organisations explore employee trends and make more informed workforce decisions.
