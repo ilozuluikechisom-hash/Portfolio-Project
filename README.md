@@ -208,7 +208,7 @@ It also strengthened my practical experience with Google Sheets and demonstrated
 
 
 
-EXCEL DASHBOARDS README
+## EXCEL DASHBOARDS README
 
 
 # 1. VRINDA STORE SALES DASHBOARD
@@ -339,3 +339,87 @@ Work in progress.
 
 ## Project Outcome
 This project is helping me develop practical experience in HR analytics and Tableau dashboard development. It also demonstrates how data visualisation can help organisations explore employee trends and make more informed workforce decisions.
+
+
+
+## TABLEAU DASHBOARDS README
+
+# 1 HR Analytics – Employee Attrition Dashboard
+
+
+## Project Overview
+This project focuses on analysing employee attrition using an HR/Employee Attrition dataset in Tableau.
+
+The dashboard explores workforce patterns, particularly employee attrition across gender and different age groups. It aims to transform HR data into visual insights that can help organisations better understand employee turnover.
+
+## Project Objectives
+- Analyse employee attrition patterns.
+- Explore attrition by gender across different age groups.
+- Examine employee distribution across relevant categories.
+- Present HR data through clear and meaningful visualisations.
+- Demonstrate how data analytics can support workforce-related decisions.
+
+## Tools and Techniques Used
+- Tableau
+- Calculated Fields
+- Dual-Axis Charts
+- Donut Charts
+- Employee Counts and Percentage Labels
+
+## Project Highlights
+- Created five donut charts to visualise employee attrition by gender across different age groups.
+- Used calculated fields and dual-axis functionality to improve chart presentation.
+- Incorporated employee counts and percentage labels to make the visualisations easier to interpret.
+
+## Key Skills Demonstrated
+- HR analytics
+- Data analysis
+- Data visualisation
+- Tableau dashboard development
+- Calculated fields
+- Dashboard design
+
+## Project Status
+Work in progress.
+
+## Project Outcome
+This project is strengthening my practical Tableau skills and demonstrating how data visualisation can help organisations explore workforce trends and make more informed decision
+
+
+## Live Dashboard
+
+https://public.tableau.com/app/profile/stephanie.ilozuluile/viz/2ndTableauDashboard_17942236298870/HRAnalyticsDashboard?publish=yes
+
+
+# Electric Vehicle (EV) Analysis Dashboard
+
+## Project Overview
+This project focuses on exploring and analysing electric vehicle (EV) data using Tableau. The dashboard presents information about electric vehicle adoption, distribution and market trends through interactive visualisations.
+
+The aim is to make EV data easier to understand and identify patterns that can provide insights into the growth and development of the electric vehicle market.
+
+## Project Objectives
+- Explore electric vehicle data and market distribution.
+- Analyse trends in electric vehicle adoption.
+- Examine relevant vehicle characteristics and categories.
+- Present key metrics through interactive charts and visualisations.
+- Demonstrate how data analytics can support industry insights and decision-making.
+
+## Tools Used
+- Tableau
+- Data visualisation
+- Calculated fields (where applicable)
+
+## Key Skills Demonstrated
+- Data analysis
+- Data visualisation
+- Trend analysis
+- Dashboard development
+- Analytical thinking
+
+## Project Outcome
+This project provided practical experience in using Tableau to transform electric vehicle data into meaningful visual insights and communicate trends through an interactive dashboard.
+
+
+## Live Dashboard
+https://public.tableau.com/app/profile/stephanie.ilozuluile/viz/1stTableauDashboard_17938784495130/Dashboard1?publish=yes
