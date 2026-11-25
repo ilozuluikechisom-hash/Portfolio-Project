@@ -423,3 +423,583 @@ This project provided practical experience in using Tableau to transform electri
 
 ## Live Dashboard
 https://public.tableau.com/app/profile/stephanie.ilozuluile/viz/1stTableauDashboard_17938784495130/Dashboard1?publish=yes
+
+# Environmental Impact Analysis Dashboard | Tableau
+
+## 1. Project Overview
+
+The **Environmental Impact Analysis Dashboard** is an interactive data visualization project developed using Tableau to examine environmental performance across different regions, industries, product categories and reporting years.
+
+The dashboard brings together important environmental indicators, including carbon emissions, energy consumption, water consumption, recycling rates and compliance levels.
+
+The purpose of the project is to transform environmental data into meaningful visual insights that make it easier to monitor performance, compare environmental indicators and identify areas that may require further attention.
+
+## 2. Project Objectives
+
+The main objectives of this project were to:
+
+- Analyse total carbon emissions and energy consumption.
+- Examine changes in energy usage over time.
+- Evaluate water consumption across the available records.
+- Compare recycling performance across regions and industries.
+- Examine the distribution of environmental compliance levels.
+- Explore environmental metrics through interactive visualizations.
+- Develop an interactive dashboard that presents multiple environmental indicators in one place.
+
+## 3. Dataset Description
+
+The project uses an environmental sustainability dataset containing records across different years, geographical regions, industries and product categories.
+
+The dataset contains the following fields:
+
+| Column | Description |
+|---|---|
+| ID | Unique record identifier |
+| Carbon Emissions (kg) | Carbon emissions recorded in kilograms |
+| Water Consumption (liters) | Water consumed in litres |
+| Energy Usage (kWh) | Energy consumed in kilowatt-hours |
+| Waste Generated (kg) | Waste generated in kilograms |
+| Recycling Rate (%) | Percentage of waste recycled |
+| Air Quality Index (AQI) | Air quality measurement |
+| Region | Geographical region |
+| Industry | Industry classification |
+| Product Type | Product classification |
+| Category | Main product category |
+| Subcategory | More specific product classification |
+| Compliance Level | Environmental compliance classification |
+| Year | Reporting year |
+
+**Reporting period:** 2021–2024.
+
+## 4. Tools and Technologies
+
+- **Tableau:** Dashboard development, data visualization and analysis.
+- **Microsoft Excel / CSV:** Dataset handling and preparation.
+- **Data visualization:** KPI cards, line charts, donut charts and comparative visualizations.
+
+## 5. Key Performance Indicators (KPIs)
+
+The dashboard presents four major environmental performance indicators:
+
+| KPI | Value |
+|---|---:|
+| Total Carbon Emissions | 16,189,153 kg |
+| Average Recycling Rate | 32.02% |
+| Total Energy Usage | 37.5 million kWh |
+| Total Water Consumption | 49.9 million litres |
+
+These KPIs provide a summary of the environmental metrics represented in the dataset.
+
+## 6. Dashboard Features and Visualizations
+
+### A. Total Carbon Emissions
+
+Displays total carbon emissions of 16,189,153 kg across the available records.
+
+This indicator provides an overview of the recorded carbon emissions within the dataset.
+
+### B. Average Recycling Rate
+
+Displays an average recycling rate of 32.02%, providing a summary of recycling performance across the available records.
+
+### C. Total Energy Usage
+
+Shows total energy consumption of approximately 37.5 million kWh.
+
+This KPI provides an overview of energy usage across the reporting period.
+
+### D. Total Water Consumption
+
+Displays total water consumption of approximately 49.9 million litres.
+
+This indicator summarises water usage across the available records.
+
+### E. Energy Usage Over Time
+
+A line chart illustrating changes in energy consumption across the reporting years, from 2021 to 2024.
+
+This visualization helps users examine energy usage patterns over time.
+
+### F. Distribution of Compliance Levels
+
+A donut chart showing the distribution of records across the different environmental compliance categories.
+
+It provides a visual representation of the contribution of each compliance level.
+
+### G. Numerical Data Visualization
+
+A chart displaying the numerical value of 16,189,153 within a coordinate-based visualization.
+
+This visual forms part of the dashboard's presentation of environmental data.
+
+### H. Recycling Rates by Region and Industry
+
+A comparative visualization showing recycling performance across different geographical regions and industry classifications.
+
+This allows users to examine differences in recycling rates across the represented groups.
+
+## 7. Interactive Dashboard Filters
+
+The dashboard includes four interactive filters:
+
+| Filter | Purpose |
+|---|---|
+| Year | Filter environmental records by reporting year |
+| Compliance Level | Explore records based on compliance classification |
+| Industry | Focus on specific industry groups |
+| Region | Compare environmental performance across geographical regions |
+
+These filters allow users to explore the dashboard from different perspectives and examine specific segments of the dataset.
+
+## 8. Key Areas of Analysis
+
+The dashboard focuses on the following areas:
+
+- **Carbon emissions:** Understanding the scale of recorded emissions.
+- **Energy consumption:** Examining energy usage patterns over time.
+- **Water consumption:** Monitoring overall water usage.
+- **Recycling performance:** Comparing recycling rates across regions and industries.
+- **Environmental compliance:** Examining the distribution of compliance classifications.
+
+## 9. Project Limitations
+
+- The analysis is limited to the variables and reporting years available in the dataset.
+- The dashboard presents observed environmental data and does not independently establish the causes of differences in performance.
+- Relationships between environmental indicators should not automatically be interpreted as evidence of causation.
+- The results depend on the accuracy and completeness of the original dataset.
+
+## 10. Recommendations
+
+Based on the areas explored in the dashboard, organisations could consider:
+
+1. Monitoring energy consumption regularly to identify opportunities for improved efficiency.
+2. Reviewing recycling performance across regions and industries to identify areas that may need improvement.
+3. Investigating operations associated with higher carbon emissions.
+4. Strengthening environmental compliance monitoring.
+5. Tracking water consumption and identifying opportunities to reduce unnecessary usage.
+
+These recommendations represent possible areas for further investigation rather than proven outcomes from the dashboard.
+
+## 11. Conclusion
+
+The Environmental Impact Analysis Dashboard demonstrates how Tableau can be used to transform environmental data into an interactive and accessible reporting tool.
+
+By combining key performance indicators, trend analysis, compliance distribution and regional and industry comparisons, the dashboard provides a consolidated view of environmental performance.
+
+Working on this project strengthened my practical experience in data preparation, KPI presentation, visual analytics and dashboard development using Tableau.
+
+## Project Information
+
+- **Project:** Environmental Impact Analysis Dashboard
+- **Tool:** Tableau
+- **Category:** Environmental Sustainability / Data Analytics
+
+- # POWER BI PROJECT PORTFOLIO
+- 
+# PROJECT 1: SWIFT ROUTE – DELIVERY PERFORMANCE DASHBOARD
+
+## 1. Project Overview
+
+The **Swift Route Delivery Performance Dashboard** is a Power BI project developed to analyse delivery operations and monitor key indicators relating to order volume, delivery performance, customer satisfaction and delivery time.
+
+The dashboard provides an overview of delivery activities and helps examine how effectively orders are being processed and delivered.
+
+The project involved working with Power BI features such as data visualization, filters, relationships, data formatting and KPI development.
+
+## 2. Project Objectives
+
+The objectives of this project were to:
+
+- Monitor overall order volume.
+- Evaluate on-time delivery performance.
+- Examine customer satisfaction.
+- Analyse average delivery time.
+- Understand delivery order statuses.
+- Present important operational metrics in an interactive dashboard.
+
+## 3. Key Performance Indicators
+
+| KPI | Value |
+|---|---:|
+| Total Orders | 27,727 |
+| On-Time Delivery Rate | Approximately 79% |
+| Customer Satisfaction (CSAT) | Approximately 84% |
+| Average Delivery Time | 35.78 |
+
+These indicators provide an overview of order volume, delivery reliability, customer satisfaction and delivery efficiency.
+
+## 4. Data Analysis and Dashboard Features
+
+### Order Volume
+Examines the total number of orders processed within the dataset.
+
+### Delivery Performance
+Uses the on-time delivery rate to assess the proportion of deliveries completed within the expected delivery timeframe.
+
+### Customer Satisfaction
+Examines the customer satisfaction metric to provide an indication of the customer experience.
+
+### Average Delivery Time
+Measures the average time taken to complete deliveries.
+
+### Order Status
+Examines order statuses, including Delivered and Cancelled, to provide an overview of completed and unsuccessful orders.
+
+## 5. Tools and Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX measures
+- Data modelling and relationships
+- Interactive dashboard visualizations
+
+## 6. Skills Demonstrated
+
+- Data preparation and transformation
+- KPI development
+- Data modelling
+- Dashboard design
+- Data visualization
+- Working with filters and relationships
+- Presenting operational performance metrics
+
+## 7. Project Learning
+
+This was my first Power BI dashboard project. It challenged me to work through issues involving visual creation, filters, relationships and formatting.
+
+The process helped me understand that building a dashboard involves more than selecting charts. It requires understanding the data, validating calculations and ensuring that the information presented is meaningful.
+
+## 8. Conclusion
+
+The Swift Route dashboard demonstrates how Power BI can be used to monitor delivery operations and communicate important business performance indicators.
+
+It represents an important step in developing my practical skills in business intelligence, data analysis and dashboard development.
+
+**Tool:** Microsoft Power BI  
+**Project:** Delivery Performance Analysis  
+**Developer:** Chisom Ilozuluike
+
+---
+
+# PROJECT 2: VIRAT KOHLI – CAREER PERFORMANCE DASHBOARD
+
+## 1. Project Overview
+
+The **Virat Kohli Career Performance Dashboard** is a sports analytics project developed using Microsoft Power BI to explore and present the batting performance of Indian cricketer Virat Kohli.
+
+The project focuses on transforming cricket statistics into an interactive dashboard that makes it easier to examine batting performance, compare formats and explore career statistics.
+
+The dashboard covers three major international cricket formats:
+
+- Test Cricket
+- One Day Internationals (ODI)
+- Twenty20 Internationals (T20I)
+
+The aim was to make cricket statistics easier to explore and understand through data visualization.
+
+## 2. Project Objectives
+
+The main objectives were to:
+
+- Analyse Virat Kohli's batting performance.
+- Explore runs scored across different cricket formats.
+- Present important career performance indicators.
+- Make cricket statistics easier to interpret.
+- Use interactive slicers to support data exploration.
+- Develop a visually engaging sports analytics dashboard.
+
+## 3. Scope of Analysis
+
+### Batting Performance
+The dashboard explores batting statistics and runs scored throughout the available career records.
+
+### Performance Across Cricket Formats
+The project examines performance across Test, ODI and T20I formats, allowing users to explore the differences between the formats.
+
+### Career Performance Metrics
+Key performance indicators are used to highlight important batting statistics and provide a quick overview of performance.
+
+## 4. Dashboard Features
+
+### KPI Cards
+KPI cards present important performance metrics, allowing users to view key statistics without having to examine the entire dataset.
+
+### Format-Based Analysis
+The dashboard allows exploration of performance across Test, ODI and T20I cricket.
+
+### Interactive Slicers
+Interactive slicers allow users to filter and explore the available cricket statistics.
+
+### Data Visualization
+Visual elements are used to organise the statistics and make performance patterns easier to interpret.
+
+## 5. Tools and Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX
+- Data modelling
+- Interactive slicers
+- Data visualization
+
+## 6. Skills Demonstrated
+
+- Data preparation
+- KPI development
+- Data visualization
+- Dashboard design
+- Interactive report development
+- Comparative analysis
+- Communicating insights through visual storytelling
+
+## 7. Project Learning
+
+This project provided an opportunity to apply Power BI to sports analytics.
+
+It reinforced the importance of presenting data in a way that makes information accessible to different audiences. Rather than simply displaying cricket statistics, the objective was to organise the information into a dashboard that allows users to explore performance across different formats.
+
+## 8. Conclusion
+
+The Virat Kohli Career Performance Dashboard demonstrates how Power BI can be applied to sports data to explore performance statistics and communicate insights through interactive visualizations.
+
+It also strengthened my understanding of KPI presentation, slicers and dashboard design.
+
+**Tool:** Microsoft Power BI  
+**Project Category:** Sports Analytics  
+**Subject:** Virat Kohli  
+**Developer:** Chisom Ilozuluike
+
+---
+
+# PROJECT 3: UBER – BOOKING ANALYSIS DASHBOARD
+
+## 1. Project Overview
+
+The **Uber Booking Analysis Dashboard** is a business intelligence project developed using Microsoft Power BI to analyse more than 150,000 Uber booking records.
+
+The project explores booking performance, completed and cancelled bookings, revenue across vehicle types, customer and driver ratings, and monthly booking trends.
+
+The objective was to transform a large booking dataset into meaningful information that can help users understand operational performance and customer experience.
+
+## 2. Project Objectives
+
+The main objectives of this project were to:
+
+- Analyse overall booking activity.
+- Examine completed and cancelled bookings.
+- Explore revenue across different vehicle types.
+- Calculate average customer and driver ratings.
+- Investigate booking trends across months.
+- Present booking performance through interactive visualizations.
+
+## 3. Dataset Overview
+
+The project uses an Uber booking dataset containing more than 150,000 booking records.
+
+The dataset provides information that supports the analysis of booking activity, vehicle categories, revenue, ratings and booking status.
+
+The analysis focuses on the available fields and measures within the dataset.
+
+## 4. Key Areas of Analysis
+
+### Booking Performance
+Examines overall booking activity and provides an overview of the volume of bookings recorded.
+
+### Completed and Cancelled Bookings
+Uses DAX measures to distinguish completed bookings from cancelled bookings.
+
+This helps examine booking outcomes and understand the distribution of successful and unsuccessful booking requests.
+
+### Revenue Across Vehicle Types
+Analyses revenue across different vehicle categories to compare their contributions to overall revenue.
+
+### Customer Ratings
+Calculates average customer ratings to provide an overview of customer feedback.
+
+### Driver Ratings
+Examines average driver ratings to understand the ratings recorded for drivers.
+
+### Monthly Booking Trends
+Explores booking activity across months to identify changes in booking volume over time.
+
+## 5. Dashboard Features
+
+The dashboard brings together booking metrics and visualizations to make operational performance easier to understand.
+
+Its analytical components include:
+
+- Completed and cancelled booking measures.
+- Revenue analysis by vehicle type.
+- Average customer rating.
+- Average driver rating.
+- Monthly booking trend analysis.
+- Visual comparisons of booking performance.
+
+## 6. Tools and Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX measures
+- Data modelling
+- Table relationships
+- Data type management
+- Date field analysis
+- Interactive visualizations
+
+## 7. Technical Challenges and Problem-Solving
+
+One of the major learning experiences in this project was working through data modelling and calculation issues.
+
+Some of the challenges included:
+
+- DAX measures returning unexpected results.
+- Incorrect data types affecting calculations.
+- Relationships between tables requiring adjustment.
+- Date fields affecting monthly trend analysis.
+- KPI cards displaying errors.
+- Monthly booking charts initially showing identical values across different months.
+
+These issues required reviewing the underlying data, checking calculations and adjusting the data model and visuals.
+
+This process reinforced the importance of validating data and measures before drawing conclusions from a dashboard.
+
+## 8. Skills Demonstrated
+
+- Working with large datasets
+- Data cleaning and preparation
+- DAX measure creation
+- Data modelling and relationships
+- Date-based analysis
+- Revenue analysis
+- Customer and driver rating analysis
+- Dashboard development
+- Troubleshooting and validating calculations
+
+## 9. Project Learning
+
+This project reinforced an important lesson: a dashboard can look visually appealing while still presenting inaccurate information if its underlying calculations are incorrect.
+
+Working through issues involving DAX, relationships, date fields and visual behaviour improved my approach to problem-solving and data validation.
+
+It also helped me become more intentional about checking whether the information presented by a dashboard accurately represents the data.
+
+## 10. Conclusion
+
+The Uber Booking Analysis Dashboard demonstrates how Power BI can be used to analyse booking operations, examine revenue, monitor customer and driver ratings, and explore booking trends.
+
+The project strengthened my practical understanding of data modelling, DAX, calculation validation and business intelligence reporting.
+
+**Tool:** Microsoft Power BI  
+**Dataset:** 150,000+ Uber booking records  
+**Project Category:** Booking and Operational Analysis  
+**Developer:** Chisom Ilozuluike
+
+---
+
+# PROJECT 4: ZOMATO – RESTAURANT SALES & PERFORMANCE DASHBOARD
+
+## 1. Project Overview
+
+The **Zomato Restaurant Sales & Performance Dashboard** is a business intelligence project developed using Microsoft Power BI to explore restaurant sales and operational performance using a Zomato dataset.
+
+The dashboard examines sales trends, customer and order metrics, restaurant ratings, cuisine categories and city-level performance.
+
+The purpose of the project was to transform restaurant-related data into an interactive report that makes it easier to explore business performance and compare different aspects of restaurant operations.
+
+## 2. Project Objectives
+
+The main objectives were to:
+
+- Analyse restaurant sales performance.
+- Explore sales trends.
+- Examine customer and order metrics.
+- Analyse restaurant ratings.
+- Compare performance across cuisine categories.
+- Examine city-level performance.
+- Present restaurant business information through interactive visualizations.
+
+## 3. Scope of Analysis
+
+### Sales Performance
+Examines sales-related information to provide an overview of restaurant business performance.
+
+### Sales Trends
+Explores changes in sales across the available records to help identify patterns and variations.
+
+### Customer and Order Metrics
+Examines customer-related and order-related measures to provide additional context about restaurant activity.
+
+### Restaurant Ratings
+Analyses restaurant ratings to explore the performance and customer feedback represented in the dataset.
+
+### Cuisine Categories
+Compares restaurant performance across different cuisine categories.
+
+### City-Level Performance
+Examines differences in restaurant performance across cities represented in the dataset.
+
+## 4. Dashboard Features
+
+The dashboard brings together several areas of restaurant performance analysis:
+
+- Sales performance metrics.
+- Sales trend analysis.
+- Customer and order measurements.
+- Restaurant rating analysis.
+- Cuisine category comparisons.
+- City-level performance comparisons.
+
+These components provide different perspectives on restaurant activity and make it easier to explore the available information.
+
+## 5. Tools and Technologies
+
+- Microsoft Power BI
+- Power Query
+- DAX measures
+- Data modelling
+- Table relationships
+- Data visualization
+- Interactive dashboard design
+
+## 6. Technical Process
+
+The development process involved:
+
+1. Preparing the Zomato dataset for analysis.
+2. Reviewing the available fields and data types.
+3. Creating relationships between tables where required.
+4. Developing DAX measures for the dashboard.
+5. Designing visualizations to communicate the different areas of analysis.
+6. Reviewing calculations and adjusting visuals to improve the presentation of information.
+
+## 7. Skills Demonstrated
+
+- Data preparation and transformation
+- DAX calculations
+- Data modelling
+- Relationship management
+- Sales analysis
+- Customer and order analysis
+- Restaurant performance analysis
+- Dashboard design
+- Data visualization
+
+## 8. Project Learning
+
+This project provided practical experience in working with a restaurant dataset and applying Power BI to business performance analysis.
+
+It reinforced the importance of understanding the structure of a dataset before developing measures and visuals.
+
+It also provided an opportunity to practise turning business-related data into visual information that can support better understanding of sales, customers and restaurant performance.
+
+## 9. Conclusion
+
+The Zomato Restaurant Sales & Performance Dashboard demonstrates how Power BI can be used to explore restaurant business data and present information about sales, customers, orders, ratings, cuisine categories and city-level performance.
+
+The project strengthened my practical skills in data preparation, DAX, data modelling and business intelligence dashboard development.
+
+**Tool:** Microsoft Power BI  
+**Dataset:** Zomato restaurant dataset  
+**Project Category:** Restaurant Sales and Business Performance Analysis  
+**Developer:** Chisom Ilozuluike
+  
